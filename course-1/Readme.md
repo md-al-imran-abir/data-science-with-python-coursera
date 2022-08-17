@@ -2,4 +2,4 @@
 
 3rd and 4th assignment of the course.
 
-These assignments data manipulation with [Pandas](https://pandas.pydata.org/).
+These assignments cover data manipulation with [Pandas](https://pandas.pydata.org/).
